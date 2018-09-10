@@ -1,0 +1,9 @@
+// 20180910125331
+// https://gist.githubusercontent.com/pinglinh/1901253727f9d8f0ae007774f499d950/raw/511adabd505f99c9441a5d42d9b383bd1db24773/.babelrc
+
+{
+  "presets": [
+    "env",
+    "react"
+  ]
+}
